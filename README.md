@@ -17,4 +17,4 @@
 5、运行SA_Predict.py，加载模型，并进行预测
 
 ## 跑完30个epoch最好的验证精度在93.8%
-## 模型的准确率平均在85%左右# Sentiment-Analysis-Pytorch
+## 模型的准确率平均在85%左右
